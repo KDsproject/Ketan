@@ -1,0 +1,10 @@
+package webdrivermanager;
+
+public class WebDriverManager {
+
+	public static void main(String[] args) {
+
+		WebDriverManager.chromedriver().setup();
+	}
+
+}
